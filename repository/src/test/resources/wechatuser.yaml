@@ -1,0 +1,2 @@
+wechatUsers:
+- {wechatUid: "93fda42e26f", enabled: true, nickname: Bill, avatar: "obama.png", region: Wuhan, description: "I love the world so much"}

@@ -1,0 +1,12 @@
+{
+  "name": "checkin",
+  "version": "0.0.1-SNAPSHOT",
+  "dependencies": {
+    "angular": "latest",
+    "angular-resource": "latest",
+    "angular-route": "latest",
+    "ng-file-upload": "latest",
+    "jquery": "latest",
+    "semantic-ui": "latest"
+  }
+}
