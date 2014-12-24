@@ -12,7 +12,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="Disallow">
     <meta name="author" content="lvchao, billcc.lv@hotmail.com">
-    <meta name="copyright" content="http://renyuxian.mobi/">
     <title>Checkin</title>
     <c:set value="${pageContext.request.contextPath}" var="contextPath"/>
     <link rel="shortcut icon" type="image/x-icon" href="${contextPath}/assets/images/favicon.ico">
